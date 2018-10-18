@@ -1,0 +1,14 @@
+name: TechWebinar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - erddapy
+  - folium
+  - geolinks
+  - hvplot
+  - matplotlib
+  - owslib
+  - pandas
+  - pendulum
