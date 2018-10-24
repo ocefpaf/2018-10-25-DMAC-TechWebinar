@@ -10,7 +10,7 @@ dependencies:
   - geolinks
   - geopandas
   - hvplot
-  - ioos_tools
+  - ioos-tools
   - matplotlib
   - owslib
   - pandas
