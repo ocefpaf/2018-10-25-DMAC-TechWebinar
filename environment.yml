@@ -1,14 +1,19 @@
 name: TechWebinar
 channels:
   - conda-forge
-  - defaults
 dependencies:
+  - bokeh
   - cartopy
+  - cf-units
   - erddapy
   - folium
   - geolinks
+  - geopandas
   - hvplot
+  - ioos_tools
   - matplotlib
   - owslib
   - pandas
-  - pendulum
+  - pyoos
+  - retrying
+  - shapely
